@@ -7,6 +7,10 @@ html{
     font-family: arial;
     font-size: 62.5%;
 }
+body{
+    background-color: #dcdcdc;
+}
+
 header{
     background: linear-gradient(to right, #0000dc, #00bfff );
     color: #fff;
@@ -43,10 +47,15 @@ footer{
     background-color: #fff;
     /* Espaço entre o conteúdo */
     padding: 1.5rem;
-    text-align: justify;
-    margin: 0 auto;
-    max-width: 95%;
+    text-align: center;
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
     padding-top: 10rem;
+    position: relative;
+    z-index: 1;
+    border-radius: 20px;
 }
 h1{
     font-size: 2.5rem;
