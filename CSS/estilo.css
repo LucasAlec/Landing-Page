@@ -75,7 +75,19 @@ figure{
     width: 20%;
     height: 5%;
 }
-@media(min-width: 300px) and (max-width: 450px){
+#eng{
+    border-radius: 100%;
+    width: 15%;
+    height: 7%;
+}
+@media(min-width: 280px) and (max-width: 820px){
+    #eng{
+        border-radius: 100%;
+        width: 60%;
+        height: 40%;
+    }
+}
+@media(min-width: 280px) and (max-width: 820px){
     .imagens-site{
     /* Modifica as bordas no sentido horário (esquerda-direita) */
     border-radius: 20px 20px 20px 20px ;
