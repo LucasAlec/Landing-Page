@@ -5,3 +5,7 @@
 ### Passo a Passo
 
 - Padronizando a página.
+
+- Ajustar Section
+
+- Inserir capa E-book
